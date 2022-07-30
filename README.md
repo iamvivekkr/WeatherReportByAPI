@@ -1,6 +1,7 @@
 # WeatherReportByAPI
 <h3>NODEJS</h3>
-![Screenshot (444)](https://user-images.githubusercontent.com/91110678/181935025-6bdee759-7172-476d-89c9-bbd6df42389a.png)
+<img src="https://user-images.githubusercontent.com/91110678/181935199-e1f37f86-e3a3-4fa4-8c4f-9a2b0df4a08f.png">
+
 Using open weather API key(Here, i am collecting only data by city name)<br>
 <h1>Step to Run this code</h1>
 <li>Download NodeJs and npm</li>
