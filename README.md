@@ -10,4 +10,4 @@ Using open weather API key(Here, i am collecting only data by city name)<br>
 <li>Type node index.js</li>
 <li>Open chrome</li>
 <li>Type localhost:8000</li><br>
-Congrats You are done...
+Congrats You are done..
